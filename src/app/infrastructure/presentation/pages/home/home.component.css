@@ -1,0 +1,3 @@
+p {
+  @apply max-w-md font-normal text-gray-600 text-base dark:text-[#dff4ff] mb-4;
+}

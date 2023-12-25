@@ -2,6 +2,18 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@pages/*": [
+        "src/app/infrastructure/presentation/pages/*"
+      ],
+      "@components/*": [
+        "src/app/infrastructure/presentation/components/*"
+      ],
+      "three-full": [
+        "node_modules/@types/three"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
@@ -9,9 +21,13 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+
     "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
     "sourceMap": true,
     "declaration": false,
+    "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
@@ -27,6 +43,10 @@
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "strictMetadataEmit": true,
+    "strictTemplates": true,
+    "fullTemplateTypeCheck": true,
+    "preserveWhitespaces": true,
+    "trace": false
   }
 }
