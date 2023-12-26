@@ -1,0 +1,40 @@
+server:
+  port: 64200
+  forward-headers-strategy: framework
+  error:
+    include-message: always
+    include-binding-errors: always
+
+logging:
+  level:
+    root: INFO
+    web: DEBUG
+    org:
+      hibernate:
+        SQL: DEBUG
+        type:
+          descriptor:
+            sql:
+              BasicBinder: TRACE
+  pattern:
+    dateformat: HH:mm:ss
+
+
+spring:
+  main:
+    banner-mode: off
+  security:
+    oauth2:
+      authorizationserver:
+        client:
+          localhost:
+            token:
+              access-token-format: reference
+              access-token-time-to-live: 10000s
+            registration:
+              client-id: localhost
+              client-name: localhost
+              client-secret: {noop}localhost
+              authorization-grant-types: client_credentials
+              client-authentication-methods: client_secret_post,client_secret_basic
+
