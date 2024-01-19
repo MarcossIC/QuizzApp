@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ac38d85-83db-4640-92ad-c5db9882947d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/024080f5ed4986c4e2a45f193fa8321fe1b12be5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0429b531e407d33075ddcf19336717bad0352a40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07f33df13c6645e9972820f338eb38b6b65d1415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2497cbbae02db1143998601b5c457fbae4932d46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3da02d2dbe27ded5e1e8988a57ab57b9166ce4b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a5069297a8c2ac7ed212a2eb8f3d44fb2b490ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dc34e69c3ddb8d653b769fb29c908d6460cc8d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7202dd43903492f9815983905279098616ede6f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/897a3e8188488d3b3f0e9fa19fe018e6ccb50fd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94dcb6314bc91d1b912f03130b9040e277c69986" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d433c3ee5a2c2210629bb294a1bfc4269bd8f59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c288ae047b89a41956421ed1d5796be57a64efd8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de0011ef48dca1f4fe408de9c375e3e86a22ebd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e81bdf91fb99645cbb4475bf3a21a74d5a425572" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59c475cf9242855e159691cdb8a436ab52f8a24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/2/024080f5ed4986c4e2a45f193fa8321fe1b12be5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/0429b531e407d33075ddcf19336717bad0352a40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/7/07f33df13c6645e9972820f338eb38b6b65d1415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/2497cbbae02db1143998601b5c457fbae4932d46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/d/3da02d2dbe27ded5e1e8988a57ab57b9166ce4b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4a5069297a8c2ac7ed212a2eb8f3d44fb2b490ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6dc34e69c3ddb8d653b769fb29c908d6460cc8d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/2/7202dd43903492f9815983905279098616ede6f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/9/897a3e8188488d3b3f0e9fa19fe018e6ccb50fd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/4/94dcb6314bc91d1b912f03130b9040e277c69986" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9d433c3ee5a2c2210629bb294a1bfc4269bd8f59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/2/c288ae047b89a41956421ed1d5796be57a64efd8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de0011ef48dca1f4fe408de9c375e3e86a22ebd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/8/e81bdf91fb99645cbb4475bf3a21a74d5a425572" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/5/f59c475cf9242855e159691cdb8a436ab52f8a24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/src/main/java/server/client/QuizzApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-client/src/main/java/server/client/QuizzApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/src/main/java/server/client/QuizzAppServletInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/src/main/java/server/client/auth/infrastructure/AuthHandlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-client/src/main/java/server/client/auth/infrastructure/AuthHandlers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/src/main/java/server/client/auth/infrastructure/AuthRoutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-client/src/main/java/server/client/auth/infrastructure/AuthRoutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-client/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2b8YNwOzT7uYBce9YIlALlISUr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "backend"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="QuizzApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.client.QuizzApp" />
+      <module name="nestQuizz-server-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuizzApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ac38d85-83db-4640-92ad-c5db9882947d" name="Changes" comment="" />
+      <created>1705598146457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705598146457</updated>
+    </task>
+    <servers />
+  </component>
+</project>

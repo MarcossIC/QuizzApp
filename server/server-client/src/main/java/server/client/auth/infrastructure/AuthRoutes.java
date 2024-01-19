@@ -4,7 +4,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.ServerResponse;
+import reactor.core.publisher.Mono;
 
+import static org.springframework.http.MediaType.TEXT_PLAIN;
 import static org.springframework.web.reactive.function.server.RequestPredicates.accept;
 import static org.springframework.web.reactive.function.server.RouterFunctions.route;
 import static org.springframework.http.MediaType.APPLICATION_JSON;
@@ -18,6 +20,7 @@ public class AuthRoutes {
         return route().path("/api/v1/users", pathB -> pathB
                 .nest(accept(APPLICATION_JSON), builder -> builder
                         .GET("/{id}", handler::getUserHandler)
+                        .GET("/", handler::helloWorld)
                 )).build();
     }
 }

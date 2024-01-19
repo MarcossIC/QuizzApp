@@ -1,6 +1,4 @@
 ---
-#Desactivo los detalles de la request
-enableLoggingRequestDetails: false
 server:
   error:
     #Al haber un error envia siempre message y los parametros
@@ -24,4 +22,18 @@ logging:
 spring:
   main:
     banner-mode: off
+    logging:
+      level:
+        org:
+          springframework:
+            data:
+              r2dbc: DEBUG
+    server:
+      error:
+        include-stacktrace: on_param
+  r2dbc:
+    url: r2dbc:postgresql://db.eqauodziqzmxgqruirui.supabase.co:5432/postgres
+    username: postgres
+    password: WriteOnceRunEverywhere
+
 ...
